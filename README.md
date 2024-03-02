@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mayank Srivastava</h1>
-<h3 align="center">App developer,Ethical Hacker,Data Scintist from India</h3>
+<h3 align="center">App developer,Data Scintist,Python Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayanksri1032&label=Profile%20views&color=0e75b6&style=flat" alt="mayanksri1032" /> </p>
 
