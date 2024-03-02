@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mayank Srivastava</h1>
 <h3 align="center">App developer,Ethical Hacker,Data Scintist from India</h3>
 
-<p align="left"> <a href="https://twitter.com/mayanksri1032" target="blank"><img src="https://img.shields.io/twitter/follow/mayanksri1032?logo=twitter&style=for-the-badge" alt="mayanksri1032" /></a> </p>
-
 - 🔭 I’m currently working on **Autometic Time Table generation System**
 
 - 💬 Ask me about **Python,MySql,Android Development,Kotlin**
