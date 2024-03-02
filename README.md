@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Autometic Time Table generation System**
 
-- 💬 Ask me about **Python,MySql,Android Development,Kotlin**
+- 💬 Ask me about **Python,MySql,Android Development,Kotlin,Kali-Linux**
 
 - 📫 How to reach me **mayanksrivastava101134@gmail.com**
 
