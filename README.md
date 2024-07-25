@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mayank Srivastava</h1>
-<h3 align="center">App developer,Ethical Hacker,Data Scintist from India</h3>
+<h3 align="center">App developer,Data Scintist from India</h3>
 
-- 🔭 I’m currently working on **Autometic Time Table generation System**
+- 🔭 I’m currently working on **TriPal**
 
 - 💬 Ask me about **Python,MySql,Android Development,Kotlin,Kali-Linux**
 
-- 📫 How to reach me **mayanksrivastava101134@gmail.com**
+- 📫 How to reach me **work.mayankk@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1PxDOMwRcEMPaYigq3mt0Rt8_dSENCnuM/view?usp=sharing](https://drive.google.com/file/d/1PxDOMwRcEMPaYigq3mt0Rt8_dSENCnuM/view?usp=sharing)
 
