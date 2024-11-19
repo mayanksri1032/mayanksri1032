@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **work.mayankk@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1PxDOMwRcEMPaYigq3mt0Rt8_dSENCnuM/view?usp=sharing](https://drive.google.com/file/d/1PxDOMwRcEMPaYigq3mt0Rt8_dSENCnuM/view?usp=sharing)
+- 📄 Know about my experiences (https://mayanksri.vercel.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
