@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mayank Srivastava</h1>
 <h3 align="center">App Developer, Data Scientist & Web Developer from India</h3>
 
-- 🌟 Founder of **CosmoInfomis**
+- 🌟 Founder of **Cosmo Infomis**
 - 💼 Previously worked at **Google** (specify role if you want)
 - 💬 Ask me about **Python, MySQL, Android Development, Kotlin, Kali Linux, React, Vite, and Web Development**
 - 📫 Reach me at **mayank@cosmoinfomis.in**
