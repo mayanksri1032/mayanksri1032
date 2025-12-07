@@ -5,7 +5,6 @@
 - 💼 Previously worked at **Google** 
 - 💬 Ask me about **Python, MySQL, Android Development, Kotlin, Kali Linux, React, Vite, and Web Development**
 - 📫 Reach me at **mayank@cosmoinfomis.in**
-- 📄 View my portfolio: <a href="https://mayanksri.vercel.app" target="_blank">mayanksri.vercel.app</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
